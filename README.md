@@ -1,7 +1,5 @@
 # Sa9ya 💧
 
-![Sa9ya](docs/cover.jpg)
-
 > **Your water engineer on WhatsApp, in Tunisian Darija.**
 > Built at an IEEE ISI Student Branch × IEEE SIGHT event.
 
